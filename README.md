@@ -1,3 +1,6 @@
 # IVP_Project
 Exploring GIT &amp; GITHUB
-Author : Om Singh
+<div style="backgroundColour : "Orangered">
+  Author : Om Singh
+</div>
+
